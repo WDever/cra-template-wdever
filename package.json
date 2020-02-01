@@ -1,0 +1,31 @@
+{
+  "name": "cra-template-hanlight",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "redux",
+    "styled-components",
+    "hanlight"
+  ],
+  "description": "The base template for Hanlight.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WDever/cra-template-hanlight.git",
+    "directory": "/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.10"
+  },
+  "bugs": {
+    "url": "https://github.com/WDever/cra-template-hanlight/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
