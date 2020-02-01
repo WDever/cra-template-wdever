@@ -2,7 +2,8 @@ import App from 'App';
 import * as React from 'react';
 import { Provider } from 'react-redux';
 import { BrowserRouter } from 'react-router-dom';
-import { configureStore } from 'store';
+import { configureStore } from '@reduxjs/toolkit';
+import reducer from 'store';
 import { createGlobalStyle } from 'styled-components';
 
 const IndexStyle = createGlobalStyle`
