@@ -1,6 +1,6 @@
-# cra-template-hanlight
+# cra-template-wdever
 
-![Publish](https://github.com/WDever/cra-template-hanlight/workflows/Publish/badge.svg?event=release)
+![Publish](https://github.com/WDever/cra-template-wdever/workflows/Publish/badge.svg?event=release)
 
 Template for my side projects.
 
